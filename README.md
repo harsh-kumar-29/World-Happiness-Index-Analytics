@@ -12,3 +12,6 @@ Using 782 country-year observations, the analysis examines the relationship betw
 
 ## Key Result
 The multiple linear regression model achieved an \(R^2\) of 0.7641, meaning that the selected socioeconomic variables explain approximately 76.4% of the variation in national happiness scores. Freedom was the strongest predictor in the model, followed by GDP and healthy life expectancy.
+
+## Tableau Public Link
+https://public.tableau.com/views/DBBA_Assignement_AllSheets/Map?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
